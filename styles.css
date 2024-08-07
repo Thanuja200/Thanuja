@@ -1,0 +1,119 @@
+* {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+  }
+  .container {
+    font-family: Roboto, sans-serif;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+  * {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+  }
+  .container {
+    font-family: Roboto, sans-serif;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .section-1 {
+    margin-bottom: 50px;
+    margin-top: 50px;
+    display: grid;
+    column-gap: 50px;
+    grid-template-columns: 1fr 1fr;
+  }
+  .img-art-2-section-1 {
+    width: 100%;
+  }
+  .art-1-section-1-heading {
+    font-size: 42px;
+    font-weight: 300;
+    grid-template-columns: 1fr 1fr;
+  }
+  .img-art-2-section-1 {
+    width: 100%;
+  }
+  .art-1-section-1-heading {
+    font-size: 42px;
+    font-weight: 300;
+    line-height: 1;
+    margin-bottom: 20px;
+  }
+  .art-1-section-1-para 
+  {
+  .art-1-section-1-para {
+    line-height: 1.6;
+    margin-bottom: 20px;
+  }
+  
+  .art-1-section-1-btn 
+  {
+      border: 0px;
+      background-color: green;
+      padding: 15px 22px;
+      border-radius: 25px;
+  .art-1-section-1-btn {
+    border: 0px;
+    background-color: green;
+    padding: 15px 22px;
+    border-radius: 25px;
+  }
+  
+  .art-1-section-1-btn:hover {
+    background-color: aquamarine;
+  }
+  
+  .img-art-2-section-1 {
+    border-radius: 15px;
+  }
+  
+  .section-2-art-1-svg-cont {
+    width: 25px;
+    height: 25px;
+  }
+  
+  .art-1-section-1-btn:hover 
+  .section-2-heading 
+  {
+    background-color: aquamarine;
+    margin-bottom: 20px;
+    font-size: 28px;
+  }
+  
+  .img-art-2-section-1
+  .section-2-arts 
+  {
+    border-radius: 15px;
+    display: grid;
+    column-gap: 30px;
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+  .svg-art-1 
+  {
+    stroke: green;
+  }
+  
+  .section-2-art-1-svg-cont 
+  {
+    margin-bottom: 10px;
+  }
+  .section-2-art-1-head 
+  {
+    font-weight: 500;
+    margin-bottom: 15px;
+  }
+  .section-2-art-1-para 
+  {
+    line-height: 1.4;
+  }
+  0 comments on commit b61dcc9
+  Please sign in to comment.
+  Footer
+  © 2024 GitHub, Inc.
+  Footer navigation
+  
